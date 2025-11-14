@@ -1,4 +1,4 @@
-﻿package tests.regression;
+package tests.regression;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

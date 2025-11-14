@@ -1,0 +1,8 @@
+tests\regression\CheckoutRegressionTest.class
+tests\regression\CartRegressionTest.class
+tests\BaseTest.class
+tests\regression\PostDeploymentRegressionTest.class
+tests\regression\ProductSearchRegressionTest.class
+tests\smoke\LoginSmokeTest.class
+tests\smoke\HomeSmokeTest.class
+tests\smoke\NavigationSmokeTest.class

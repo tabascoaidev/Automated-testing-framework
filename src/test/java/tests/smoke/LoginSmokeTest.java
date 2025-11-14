@@ -1,4 +1,4 @@
-﻿package tests.smoke;
+package tests.smoke;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

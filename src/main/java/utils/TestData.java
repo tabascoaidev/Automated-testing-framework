@@ -1,4 +1,4 @@
-﻿package utils;
+package utils;
 
 public final class TestData {
 

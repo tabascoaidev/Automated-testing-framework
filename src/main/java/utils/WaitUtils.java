@@ -1,4 +1,4 @@
-﻿package utils;
+package utils;
 
 import java.time.Duration;
 import java.util.function.Function;
